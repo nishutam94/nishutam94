@@ -7,7 +7,7 @@
 ### 🔧 Skills
 - **Programming Languages**: C, C++, Python
 - **Scripting**: Shell Scripting
-- **Cloud Technologies**: [Include specific technologies or platforms if applicable, like AWS, Azure, GCP]
+
 
 ### 🌟 Projects
 I’m excited to share some of my work:
