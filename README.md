@@ -11,7 +11,7 @@
 
 ### 🌟 Projects
 I’m excited to share some of my work:
-- [Project 1](#): Brief description of what it does and the technologies used.
+- [lib_dsa](lib_dsa): Brief description of what it does and the technologies used.
 - [Project 2](#): Brief description of what it does and the technologies used.
 - [Project 3](#): Brief description of what it does and the technologies used.
 
