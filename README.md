@@ -12,7 +12,7 @@
 ### 🌟 Projects
 I’m excited to share some of my work:
 - [lib_dsa](lib_dsa): A basic memcpy test for a data streaming accelerator.
-- [SA_LSTM]((https://github.com/nishutam94/SA_LSTM)): A hybrid approach to Performing sentiment analysis using LSTM + wordnet in tensorflow.
+- [SA_LSTM](https://github.com/nishutam94/SA_LSTM): A hybrid approach to Performing sentiment analysis using LSTM + wordnet in tensorflow.
 - [web_ece](https://github.com/nishutam94/web_ece): Web application portal for education institute department for MNNIT Allahabad.
 
 ### 🤖 Interests
