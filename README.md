@@ -14,7 +14,7 @@ I’m excited to share some of my work:
 - [lib_dsa](https://github.com/nishutam94/lib_dsa): A basic memcpy test for a data streaming accelerator.
 - [SA_LSTM](https://github.com/nishutam94/SA_LSTM): A hybrid approach to Performing sentiment analysis using LSTM + wordnet in tensorflow.
 - [web_ece](https://github.com/nishutam94/web_ece): Web application portal for education institute department for MNNIT Allahabad.
-- [dev_project](https://github.com/nishutam94/lib_dsa): A basic Repo for learning tiny projects.
+- [dev_master](https://github.com/nishutam94/dev_master): A basic Repo for learning tiny projects.
 
 ### 🤖 Interests
 I’m particularly fascinated by **Deep Learning** and **Machine Learning**. Exploring how these technologies can be leveraged to solve complex problems and push the boundaries of what's possible is a major drive for me.
